@@ -1,0 +1,66 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+@import url('components/buton.css');
+@import url('components/banner.css');
+@import url('components/cards.css');
+@import url('components/footer.css');
+/* Utilities */
+body {
+  margin: 0;
+  background-color: #EDE7E3;
+}
+
+h1{
+  font-family: "manometer-serif-high", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  color: #EDE7E3;
+  font-size: 90px;
+}
+
+h2{
+  font-family: "manometer-serif-high", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  color: #489FB5;
+  font-size: 40px;
+  text-align: center;
+}
+
+h3{
+  font-family: "proxima-nova", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 25px;
+  color: #489FB5;
+}
+
+h4{
+  font-family: "proxima-nova", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  color: #489FB5;
+}
+
+p {
+  font-family: "proxima-nova", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #16697A;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+
+.container{
+  width: 900px;
+  margin: auto;
+  margin-bottom: 100px;
+}
